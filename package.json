@@ -1,6 +1,6 @@
 {
-  "name": "mathlive",
-  "version": "0.98.5",
+  "name": "@highseek/mathlive",
+  "version": "0.98.6",
   "description": "A web component for math input",
   "license": "MIT",
   "funding": {
@@ -48,9 +48,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arnog/mathlive.git"
+    "url": "git+https://github.com/highseek2/mathlive.git"
   },
-  "bugs": "https://github.com/arnog/mathlive/issues/",
+  "bugs": "https://github.com/highseek2/mathlive/issues/",
   "scripts": {
     "build": "bash ./scripts/build.sh",
     "clean": "bash ./scripts/clean.sh",
