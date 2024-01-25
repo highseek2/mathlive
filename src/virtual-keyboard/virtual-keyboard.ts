@@ -308,9 +308,9 @@ export class VirtualKeyboard implements VirtualKeyboardInterface, EventTarget {
         // If after a short delay the active element is no longer
         // a mathfield (or there is no active element), hide the virtual keyboard
 
-        setTimeout(() => {
-          if (!focusedMathfield()) this.hide();
-        }, 300);
+       // setTimeout(() => {
+         // if (!focusedMathfield()) this.hide();
+        //}, 300);
       }
     });
   }
